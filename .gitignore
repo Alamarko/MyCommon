@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+# Idea Settings
+.idea/
+.settings/
+
+# Binary
+bin/
+
 # Log file
 *.log
 
